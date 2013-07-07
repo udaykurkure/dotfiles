@@ -1,0 +1,23 @@
+call pathogen#incubate()
+call pathogen#helptags()
+filetype plugin indent on
+syntax enable
+set background=dark
+set t_Co=16
+let g:solarized_termcolors=256
+colorscheme solarized
+set nowrap "don't wrap lines
+set tabstop=4 "tab is 4 spaces
+set backspace=indent,eol,start "allow backspace over everything in insert mode
+set autoindent 
+set copyindent "copy previous indent
+set number "line numbers
+set shiftwidth=4 "spaces for autoindent
+set showmatch "show matching parenthesis
+set ignorecase "while searching
+set smartcase 
+set smarttab "use shiftwidth instead of tabstop to insert tab atthe start of the line
+set hlsearch "highlight search terms
+set incsearch "live search
+set nobackup
+set noswapfile
