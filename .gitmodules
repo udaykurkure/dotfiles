@@ -7,3 +7,12 @@
 [submodule "vim/bundle/vim-colors-solarized"]
 	path = vim/bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim/bundle/csapprox"]
+	path = vim/bundle/csapprox
+	url = https://github.com/godlygeek/csapprox
+[submodule "vim/bundle/nerdcommenter"]
+	path = vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/bundle/autoload_cscope"]
+	path = vim/bundle/autoload_cscope
+	url = https://github.com/tadpol/autoload_cscope.git
